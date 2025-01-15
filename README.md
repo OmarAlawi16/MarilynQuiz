@@ -14,4 +14,4 @@ We continue with the game logic and complete the final stage of testing and merg
 
 Meeting minutes week 4.
 
-We finish the code and complete the project. We begin the presentation and fix all the buggs with the code and merge to main. 
+We finish the code and complete the project. We begin the presentation and fix all the buggs with the code and merge to main.
